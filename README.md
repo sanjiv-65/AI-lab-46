@@ -10,7 +10,7 @@ find the shortest path from a start cell to an end cell. Tasks:<br>
 -Compare the number of nodes explored by BFS and DFS. <br><hr>
 Assignment-2: Route Finder Using Bi-Directional BFS/DFS<br><br>
  Objective: Use Bi-directional BFS/DFS to solve a navigation problem. <br>
- Problem Statement: Represent a city map as a graph where intersections are nodes and roads are edges. Find the shortest path between two locations.
+ Problem Statement: Represent a city map as a graph where intersections are nodes and roads are edges. <br>Find the shortest path between two locations.
  Tasks: <br>
 -Implement Bi-directional BFS to minimize the number of nodes explored.<br>
 -Compare the performance of Bi-directional BFS with standard BFS and DFS. <br>
