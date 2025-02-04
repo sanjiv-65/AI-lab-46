@@ -14,4 +14,4 @@ Assignment-2: Route Finder Using Bi-Directional BFS/DFS<br><br>
  Tasks: 
 -Implement Bi-directional BFS to minimize the number of nodes explored.<br>
 -Compare the performance of Bi-directional BFS with standard BFS and DFS. <br>
--Visualize the search process (e.g., using a library like networkx in Python).<br>
+-Visualize the search process (e.g., using a library like networkx in Python).
