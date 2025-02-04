@@ -1,6 +1,6 @@
 # AI-lab-46
 LAB MAUNUAL:<br>
-<hr>
+<hr class>
 Assignment-1: Maze Solver using BFS and DFS<br><br>
 Objective: Implement BFS and DFS to solve a maze. M|<br>
 Problem Statement: Given a grid-based maze where 0 represents walls and 1 represents walkable paths, 
