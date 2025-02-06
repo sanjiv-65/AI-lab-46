@@ -19,6 +19,5 @@ Implement Bi-directional BFS to minimize the number of nodes explored.<br></li>
  <li>Compare the performance of Bi-directional BFS with standard BFS and DFS. </li><br>
   <li>Visualize the search process (e.g., using a library like networkx in Python).</li>
  <li>sanvi</li>
- <li>vandana</li>
   <li>sanjiv</li>
  <li>sanjiv</li></ul>
