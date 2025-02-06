@@ -13,12 +13,12 @@ Assignment-2: Route Finder Using Bi-Directional BFS/DFS<br><br>
  Problem Statement: Represent a city map as a graph where intersections are nodes and roads are edges. 
  <br>
  Find the shortest path between two locations.<br>
- Tasks: 
--Implement Bi-directional BFS to minimize the number of nodes explored.<br>
+ Tasks: <ul>
+ <li>
+-Implement Bi-directional BFS to minimize the number of nodes explored.<br></li>
 -Compare the performance of Bi-directional BFS with standard BFS and DFS. <br>
 -Visualize the search process (e.g., using a library like networkx in Python).
-<ul>
- <li>sanjiv</li>
+
   <li>vsnu</li>
  <li>sanvi</li>
  <li>vandana</li>
