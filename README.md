@@ -1,7 +1,7 @@
 # AI-lab-46
 LAB MAUNUAL:
 <hr >
-Assignment-1: Maze Solver using BFS and DFS<br><br>
+Assignment-1: Maze Solver using BFS and DFS<br>
 Objective: Implement BFS and DFS to solve a maze. M|<br>
 Problem Statement: Given a grid-based maze where 0 represents walls and 1 represents walkable paths, 
 find the shortest path from a start cell to an end cell. Tasks:<br>
