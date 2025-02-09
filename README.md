@@ -1,5 +1,5 @@
 ## AI-lab-46  <i>
-### LAB MAUNUAL:</i>
+### <b>LAB MAUNUAL:</b></i>
 <hr >
 Assignment-1: Maze Solver using BFS and DFS<br><br>
 Objective: Implement BFS and DFS to solve a maze. M|<br>
