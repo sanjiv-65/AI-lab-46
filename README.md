@@ -20,8 +20,3 @@ Implement Bi-directional BFS to minimize the number of nodes explored.</li>
  <li>Compare the performance of Bi-directional BFS with standard BFS and DFS. </li>
   <li>Visualize the search process (e.g., using a library like networkx in Python).</li>
  </ul>
-
-
-
-
-hi i am s
