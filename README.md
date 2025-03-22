@@ -1,4 +1,4 @@
-111## AI-lab-46  <i>
+11## AI-lab-46  <i>
 ### LAB MAUNUAL:</i>
 <hr >
 Assignment-1: Maze Solver using BFS and DFS<br><br>
